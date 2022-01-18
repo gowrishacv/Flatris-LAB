@@ -1,5 +1,7 @@
 // @flow
 
+Welcome
+
 const GAME_COLS = 16;
 const GAME_ROWS = 20;
 const CONTROL_BLOCKS = 4;
